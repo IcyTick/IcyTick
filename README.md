@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @IcyTick
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning FrontEnd
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on WebDev
+- 📫 How to reach me: Https://t.me/Icy_Tick
+- 🥐 Pronouns: croissant
+- ⚡ Fun fact: don't take life too seriously
 
 <!---
 IcyTick/IcyTick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
