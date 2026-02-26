@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcyTick
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning FrontEnd
+- 🌱 I’m currently learning and working in FrontEndDev
 - 💞️ I’m looking to collaborate on WebDev
 - 📫 How to reach me: Https://t.me/Icy_Tick
 - 🥐 Pronouns: croissant
